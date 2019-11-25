@@ -1,0 +1,545 @@
+Threshold = 0.11500
+total = 60
+real notes with vale < thresold = 6
+
+real1.jpg
+ Details:
+Distances:
+ Dist_s : 90.2621
+ Dist_cr : 19.2166
+ Dist_u : 14.2981
+ combined distance : 0.261099
+
+ real2.jpg
+ Details:
+Distances:
+ Dist_s : 77.6586
+ Dist_cr : 22.2734
+ Dist_u : 19.8825
+ combined distance : 0.232144
+
+ real3.jpg
+ Details:
+Distances:
+ Dist_s : 67.2713
+ Dist_cr : 20.0447
+ Dist_u : 4.87684
+ combined distance : 0.202075
+
+ real4.jpg
+ Details:
+Distances:
+ Dist_s : 44.509
+ Dist_cr : 17.2664
+ Dist_u : 9.3046
+ combined distance : 0.138934
+
+ real5.jpg
+ Details:
+Distances:
+ Dist_s : 66.6328
+ Dist_cr : 1.31302
+ Dist_u : 7.79315
+ combined distance : 0.17592
+
+ real6.jpg
+ Details:
+Distances:
+ Dist_s : 25.7279
+ Dist_cr : 17.7191
+ Dist_u : 3.00583
+ combined distance : 0.0904248
+
+ real7.jpg
+ Details:
+Distances:
+ Dist_s : 67.3943
+ Dist_cr : 12.1451
+ Dist_u : 13.0111
+ combined distance : 0.19207
+
+ real8.jpg
+ Details:
+Distances:
+ Dist_s : 66.4983
+ Dist_cr : 17.4361
+ Dist_u : 4.34715
+ combined distance : 0.196644
+
+ real9.jpg
+ Details:
+Distances:
+ Dist_s : 77.4089
+ Dist_cr : 16.9627
+ Dist_u : 1.80807
+ combined distance : 0.22455
+
+ real10.jpg
+ Details:
+Distances:
+ Dist_s : 91.5654
+ Dist_cr : 16.0967
+ Dist_u : 1.48654
+ combined distance : 0.260428
+
+ real11.jpg
+ Details:
+Distances:
+ Dist_s : 51.6835
+ Dist_cr : 17.3941
+ Dist_u : 5.90772
+ combined distance : 0.157858
+
+ real12.jpg
+ Details:
+Distances:
+ Dist_s : 71.1938
+ Dist_cr : 15.6929
+ Dist_u : 7.95506
+ combined distance : 0.206641
+
+ real13.jpg
+ Details:
+Distances:
+ Dist_s : 46.5563
+ Dist_cr : 14.4294
+ Dist_u : 11.167
+ combined distance : 0.140578
+
+ real14.jpg
+ Details:
+Distances:
+ Dist_s : 39.8145
+ Dist_cr : 13.9161
+ Dist_u : 9.56952
+ combined distance : 0.122281
+
+ real15.jpg
+ Details:
+Distances:
+ Dist_s : 69.4301
+ Dist_cr : 16.0002
+ Dist_u : 6.31155
+ combined distance : 0.202432
+
+ real16.jpg
+ Details:
+Distances:
+ Dist_s : 50.812
+ Dist_cr : 20.2687
+ Dist_u : 19.9702
+ combined distance : 0.159337
+
+ real17.jpg
+ Details:
+Distances:
+ Dist_s : 58.4146
+ Dist_cr : 20.0391
+ Dist_u : 15.9176
+ combined distance : 0.178913
+
+ real18.jpg
+ Details:
+Distances:
+ Dist_s : 66.6924
+ Dist_cr : 12.4015
+ Dist_u : 11.4345
+ combined distance : 0.19057
+
+ real19.jpg
+ Details:
+Distances:
+ Dist_s : 52.022
+ Dist_cr : 22.0704
+ Dist_u : 15.5026
+ combined distance : 0.164855
+
+ real20.jpg
+ Details:
+Distances:
+ Dist_s : 47.0211
+ Dist_cr : 18.5028
+ Dist_u : 15.6031
+ combined distance : 0.147118
+
+ real21.jpg
+ Details:
+Distances:
+ Dist_s : 53.67
+ Dist_cr : 19.4399
+ Dist_u : 14.6333
+ combined distance : 0.165725
+
+ real22.jpg
+ Details:
+Distances:
+ Dist_s : 54.3763
+ Dist_cr : 16.9629
+ Dist_u : 14.2179
+ combined distance : 0.164334
+
+ real23.jpg
+ Details:
+Distances:
+ Dist_s : 45.99
+ Dist_cr : 18.6776
+ Dist_u : 12.8919
+ combined distance : 0.14465
+
+ real24.jpg
+ Details:
+Distances:
+ Dist_s : 40.7723
+ Dist_cr : 20.0936
+ Dist_u : 2.13317
+ combined distance : 0.13286
+
+ real25.jpg
+ Details:
+Distances:
+ Dist_s : 33.4326
+ Dist_cr : 19.1975
+ Dist_u : 7.60909
+ combined distance : 0.1125
+
+ real26.jpg
+ Details:
+Distances:
+ Dist_s : 55.9954
+ Dist_cr : 13.8412
+ Dist_u : 10.854
+ combined distance : 0.164486
+
+ real27.jpg
+ Details:
+Distances:
+ Dist_s : 55.8745
+ Dist_cr : 20.223
+ Dist_u : 5.37106
+ combined distance : 0.172513
+
+ real28.jpg
+ Details:
+Distances:
+ Dist_s : 54.9721
+ Dist_cr : 19.1366
+ Dist_u : 20.8004
+ combined distance : 0.168733
+
+ real29.jpg
+ Details:
+Distances:
+ Dist_s : 36.9139
+ Dist_cr : 18.1333
+ Dist_u : 14.2279
+ combined distance : 0.120211
+
+ real30.jpg
+ Details:
+Distances:
+ Dist_s : 39.9378
+ Dist_cr : 16.6121
+ Dist_u : 13.5797
+ combined distance : 0.126128
+
+ real31.jpg
+ Details:
+Distances:
+ Dist_s : 22.1936
+ Dist_cr : 18.6722
+ Dist_u : 16.7263
+ combined distance : 0.0824305
+
+ real32.jpg
+ Details:
+Distances:
+ Dist_s : 44.8779
+ Dist_cr : 18.9095
+ Dist_u : 3.59087
+ combined distance : 0.142046
+
+ real33.jpg
+ Details:
+Distances:
+ Dist_s : 60.9887
+ Dist_cr : 23.7391
+ Dist_u : 11.2239
+ combined distance : 0.190479
+
+ real34.jpg
+ Details:
+Distances:
+ Dist_s : 60.8777
+ Dist_cr : 1.73886
+ Dist_u : 2.17073
+ combined distance : 0.16143
+
+ real35.jpg
+ Details:
+Distances:
+ Dist_s : 60.6415
+ Dist_cr : 11.3397
+ Dist_u : 0.918587
+ combined distance : 0.173363
+
+ real36.jpg
+ Details:
+Distances:
+ Dist_s : 51.5416
+ Dist_cr : 2.23793
+ Dist_u : 2.16388
+ combined distance : 0.137675
+
+ real37.jpg
+ Details:
+Distances:
+ Dist_s : 56.8506
+ Dist_cr : 9.71016
+ Dist_u : 7.46698
+ combined distance : 0.161322
+
+ real38.jpg
+ Details:
+Distances:
+ Dist_s : 44.8441
+ Dist_cr : 15.2751
+ Dist_u : 2.04041
+ combined distance : 0.137207
+
+ real39.jpg
+ Details:
+Distances:
+ Dist_s : 35.5554
+ Dist_cr : 8.73139
+ Dist_u : 2.58504
+ combined distance : 0.104369
+
+ real40.jpg
+ Details:
+Distances:
+ Dist_s : 40.747
+ Dist_cr : 17.7832
+ Dist_u : 1.74407
+ combined distance : 0.129774
+
+ real41.jpg
+ Details:
+Distances:
+ Dist_s : 78.0863
+ Dist_cr : 17.267
+ Dist_u : 1.88554
+ combined distance : 0.226718
+
+ real42.jpg
+ Details:
+Distances:
+ Dist_s : 41.9434
+ Dist_cr : 18.5175
+ Dist_u : 14.3872
+ combined distance : 0.133862
+
+ real43.jpg
+ Details:
+Distances:
+ Dist_s : 56.0014
+ Dist_cr : 20.88
+ Dist_u : 6.16426
+ combined distance : 0.173703
+
+ real44.jpg
+ Details:
+Distances:
+ Dist_s : 100.979
+ Dist_cr : 19.6529
+ Dist_u : 5.55247
+ combined distance : 0.289688
+
+ real45.jpg
+ Details:
+Distances:
+ Dist_s : 38.4423
+ Dist_cr : 19.3903
+ Dist_u : 17.0735
+ combined distance : 0.125849
+
+ real46.jpg
+ Details:
+Distances:
+ Dist_s : 37.5359
+ Dist_cr : 19.4066
+ Dist_u : 14.336
+ combined distance : 0.123501
+
+ real47.jpg
+ Details:
+Distances:
+ Dist_s : 44.7484
+ Dist_cr : 21.6781
+ Dist_u : 15.9715
+ combined distance : 0.145327
+
+ real48.jpg
+ Details:
+Distances:
+ Dist_s : 34.5871
+ Dist_cr : 16.5124
+ Dist_u : 1.79209
+ combined distance : 0.112008
+
+ real49.jpg
+ Details:
+Distances:
+ Dist_s : 36.3109
+ Dist_cr : 20.2485
+ Dist_u : 15.4523
+ combined distance : 0.121399
+
+ real50.jpg
+ Details:
+Distances:
+ Dist_s : 55.473
+ Dist_cr : 24.2871
+ Dist_u : 20.0072
+ combined distance : 0.176775
+
+ real51.jpg
+ Details:
+Distances:
+ Dist_s : 33.7067
+ Dist_cr : 16.8065
+ Dist_u : 14.332
+ combined distance : 0.110091
+
+ real52.jpg
+ Details:
+Distances:
+ Dist_s : 53.2414
+ Dist_cr : 19.7629
+ Dist_u : 14.4472
+ combined distance : 0.165027
+
+ real53.jpg
+ Details:
+Distances:
+ Dist_s : 52.8151
+ Dist_cr : 14.5497
+ Dist_u : 10.7705
+ combined distance : 0.157098
+
+ real54.jpg
+ Details:
+Distances:
+ Dist_s : 75.9505
+ Dist_cr : 17.8565
+ Dist_u : 6.49933
+ combined distance : 0.221905
+
+ real55.jpg
+ Details:
+Distances:
+ Dist_s : 89.1733
+ Dist_cr : 18.9199
+ Dist_u : 15.4252
+ combined distance : 0.257865
+
+ real56.jpg
+ Details:
+Distances:
+ Dist_s : 71.1438
+ Dist_cr : 15.8343
+ Dist_u : 7.04632
+ combined distance : 0.206695
+
+ real57.jpg
+ Details:
+Distances:
+ Dist_s : 43.663
+ Dist_cr : 2.69846
+ Dist_u : 3.27332
+ combined distance : 0.117679
+
+ real58.jpg
+ Details:
+Distances:
+ Dist_s : 52.4208
+ Dist_cr : 2.57866
+ Dist_u : 1.61368
+ combined distance : 0.140419
+
+ real59.jpg
+ Details:
+Distances:
+ Dist_s : 32.3381
+ Dist_cr : 49.8292
+ Dist_u : 32.0397
+ combined distance : 0.14968
+
+ real60.jpg
+ Details:
+Distances:
+ Dist_s : 27.2228
+ Dist_cr : 46.4142
+ Dist_u : 1.41869
+ combined distance : 0.131843
+
+ for 1 : 0.261099
+ for 2 : 0.232144
+ for 3 : 0.202075
+ for 4 : 0.138934
+ for 5 : 0.17592
+ for 6 : 0.0904248
+ for 7 : 0.19207
+ for 8 : 0.196644
+ for 9 : 0.22455
+ for 10 : 0.260428
+ for 11 : 0.157858
+ for 12 : 0.206641
+ for 13 : 0.140578
+ for 14 : 0.122281
+ for 15 : 0.202432
+ for 16 : 0.159337
+ for 17 : 0.178913
+ for 18 : 0.19057
+ for 19 : 0.164855
+ for 20 : 0.147118
+ for 21 : 0.165725
+ for 22 : 0.164334
+ for 23 : 0.14465
+ for 24 : 0.13286
+ for 25 : 0.1125
+ for 26 : 0.164486
+ for 27 : 0.172513
+ for 28 : 0.168733
+ for 29 : 0.120211
+ for 30 : 0.126128
+ for 31 : 0.0824305
+ for 32 : 0.142046
+ for 33 : 0.190479
+ for 34 : 0.16143
+ for 35 : 0.173363
+ for 36 : 0.137675
+ for 37 : 0.161322
+ for 38 : 0.137207
+ for 39 : 0.104369
+ for 40 : 0.129774
+ for 41 : 0.226718
+ for 42 : 0.133862
+ for 43 : 0.173703
+ for 44 : 0.289688
+ for 45 : 0.125849
+ for 46 : 0.123501
+ for 47 : 0.145327
+ for 48 : 0.112008
+ for 49 : 0.121399
+ for 50 : 0.176775
+ for 51 : 0.110091
+ for 52 : 0.165027
+ for 53 : 0.157098
+ for 54 : 0.221905
+ for 55 : 0.257865
+ for 56 : 0.206695
+ for 57 : 0.117679
+ for 58 : 0.140419
+ for 59 : 0.14968
+ for 60 : 0.131843
+

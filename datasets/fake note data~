@@ -1,0 +1,274 @@
+Threshold = 0.11500
+Total = 30
+fake note with vale > threshold =  
+
+fake1.jpg
+ Details:
+Distances:
+ Dist_s : 32.4468
+ Dist_cr : 1.12344
+ Dist_u : 2.18627
+ combined distance : 0.0862967
+
+ fake2.jpg
+ Details:
+Distances:
+ Dist_s : 34.4791
+ Dist_cr : 0.91378
+ Dist_u : 1.20373
+ combined distance : 0.0913359
+
+ fake3.jpg
+ Details:
+Distances:
+ Dist_s : 39.6007
+ Dist_cr : 7.08996
+ Dist_u : 6.36499
+ combined distance : 0.112799
+
+ fake4.jpg
+ Details:
+Distances:
+ Dist_s : 31.942
+ Dist_cr : 0.531601
+ Dist_u : 1.31423
+ combined distance : 0.0842033
+
+ fake5.jpg
+ Details:
+Distances:
+ Dist_s : 19.1139
+ Dist_cr : 3.62131
+ Dist_u : 1.48141
+ combined distance : 0.0547047
+
+ fake6.jpg
+ Details:
+Distances:
+ Dist_s : 19.1362
+ Dist_cr : 0.293808
+ Dist_u : 0.574409
+ combined distance : 0.0504134
+
+ fake7.jpg
+ Details:
+Distances:
+ Dist_s : 16.2979
+ Dist_cr : 8.67032
+ Dist_u : 1.37275
+ combined distance : 0.0539426
+
+ fake8.jpg
+ Details:
+Distances:
+ Dist_s : 26.1013
+ Dist_cr : 0.819191
+ Dist_u : 30.1466
+ combined distance : 0.0693096
+
+ fake9.jpg
+ Details:
+Distances:
+ Dist_s : 18.5325
+ Dist_cr : 8.93477
+ Dist_u : 2.00941
+ combined distance : 0.0601305
+
+ fake10.jpg
+ Details:
+Distances:
+ Dist_s : 15.6354
+ Dist_cr : 7.52477
+ Dist_u : 0.97641
+ combined distance : 0.0507131
+
+ fake11.jpg
+ Details:
+Distances:
+ Dist_s : 16.6657
+ Dist_cr : 6.12408
+ Dist_u : 4.91592
+ combined distance : 0.0515757
+
+ fake12.jpg
+ Details:
+Distances:
+ Dist_s : 9.64248
+ Dist_cr : 17.046
+ Dist_u : 19.5263
+ combined distance : 0.0474915
+
+ fake13.jpg
+ Details:
+Distances:
+ Dist_s : 8.15031
+ Dist_cr : 0.0855408
+ Dist_u : 9.18713
+ combined distance : 0.0214198
+
+ fake14.jpg
+ Details:
+Distances:
+ Dist_s : 8.8079
+ Dist_cr : 0.118065
+ Dist_u : 0.0401611
+ combined distance : 0.0231815
+
+ fake15.jpg
+ Details:
+Distances:
+ Dist_s : 10.2877
+ Dist_cr : 2.50826
+ Dist_u : 0.0377274
+ combined distance : 0.0301748
+
+ fake16.jpg
+ Details:
+Distances:
+ Dist_s : 10.5752
+ Dist_cr : 17.1049
+ Dist_u : 3.79282
+ combined distance : 0.050007
+
+ fake17.jpg
+ Details:
+Distances:
+ Dist_s : 8.71101
+ Dist_cr : 0.0624237
+ Dist_u : 22.3517
+ combined distance : 0.0228555
+
+ fake18.jpg
+ Details:
+Distances:
+ Dist_s : 14.4029
+ Dist_cr : 0.744797
+ Dist_u : 0.0709457
+ combined distance : 0.0386282
+
+ fake19.jpg
+ Details:
+Distances:
+ Dist_s : 9.01772
+ Dist_cr : 0.12101
+ Dist_u : 0.0763397
+ combined distance : 0.0237339
+
+ fake20.jpg
+ Details:
+Distances:
+ Dist_s : 14.6411
+ Dist_cr : 15.3057
+ Dist_u : 0.109543
+ combined distance : 0.0582848
+
+ fake21.jpg
+ Details:
+Distances:
+ Dist_s : 46.4196
+ Dist_cr : 0.281609
+ Dist_u : 0.126282
+ combined distance : 0.121727
+
+ fake22.jpg
+ Details:
+Distances:
+ Dist_s : 42.2926
+ Dist_cr : 7.33304
+ Dist_u : 1.58436
+ combined distance : 0.120155
+
+ fake23.jpg
+ Details:
+Distances:
+ Dist_s : 48.3746
+ Dist_cr : 7.23592
+ Dist_u : 0.422379
+ combined distance : 0.135928
+
+ fake24.jpg
+ Details:
+Distances:
+ Dist_s : 10.3529
+ Dist_cr : 1.21406
+ Dist_u : 1.75077
+ combined distance : 0.0286535
+
+ fake25.jpg
+ Details:
+Distances:
+ Dist_s : 13.3926
+ Dist_cr : 8.66844
+ Dist_u : 8.27498
+ combined distance : 0.0463446
+
+ fake26.jpg
+ Details:
+Distances:
+ Dist_s : 12.2281
+ Dist_cr : 0.300957
+ Dist_u : 0.174019
+ combined distance : 0.0323623
+
+ fake27.jpg
+ Details:
+Distances:
+ Dist_s : 26.2855
+ Dist_cr : 7.43996
+ Dist_u : 0.0986099
+ combined distance : 0.0784458
+
+ fake28.jpg
+ Details:
+Distances:
+ Dist_s : 24.1552
+ Dist_cr : 6.06908
+ Dist_u : 8.20686
+ combined distance : 0.0710842
+
+ fake29.jpg
+ Details:
+Distances:
+ Dist_s : 22.1248
+ Dist_cr : 5.34583
+ Dist_u : 0.403244
+ combined distance : 0.0648307
+
+ fake30.jpg
+ Details:
+Distances:
+ Dist_s : 21.601
+ Dist_cr : 0.0501556
+ Dist_u : 18.1179
+ combined distance : 0.0565389
+
+ for 1 : 0.0862967
+ for 2 : 0.0913359
+ for 3 : 0.112799
+ for 4 : 0.0842033
+ for 5 : 0.0547047
+ for 6 : 0.0504134
+ for 7 : 0.0539426
+ for 8 : 0.0693096
+ for 9 : 0.0601305
+ for 10 : 0.0507131
+ for 11 : 0.0515757
+ for 12 : 0.0474915
+ for 13 : 0.0214198
+ for 14 : 0.0231815
+ for 15 : 0.0301748
+ for 16 : 0.050007
+ for 17 : 0.0228555
+ for 18 : 0.0386282
+ for 19 : 0.0237339
+ for 20 : 0.0582848
+ for 21 : 0.121727
+ for 22 : 0.120155
+ for 23 : 0.135928
+ for 24 : 0.0286535
+ for 25 : 0.0463446
+ for 26 : 0.0323623
+ for 27 : 0.0784458
+ for 28 : 0.0710842
+ for 29 : 0.0648307
+ for 30 : 0.0565389
